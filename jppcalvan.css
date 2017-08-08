@@ -1,0 +1,9 @@
+body {
+	background-color: khaki;
+}
+
+#photo {
+	width: auto;
+	height: 500px;
+	margin: 0px 50px;
+}

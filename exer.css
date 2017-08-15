@@ -1,0 +1,19 @@
+#picture{
+	height: 325px;
+	width: 325px;
+	float: left;
+	margin-left: 30px;
+}
+
+.Info{
+	margin-left:25px; 
+	color: yellow;
+	font-weight: bold;
+	float:left;
+	font-size:30px;
+}
+
+.bg{
+	background-color: black;
+	position: fixed;
+}
